@@ -352,5 +352,22 @@
       "greedy"
     ],
     "timestamp": "Jul/10/2022 22:02"
+  },
+  "CF84606108": {
+    "contest_id": 1367,
+    "language": "GNU C++17",
+    "path": "codeforces/1367/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Short Substrings",
+    "problem_url": "https://codeforces.com/contest/1367/problem/A",
+    "submission_id": "CF84606108",
+    "submission_url": "https://codeforces.com/contest/1367/submission/84606108",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/21/2020 23:05"
   }
 }
