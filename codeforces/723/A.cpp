@@ -1,17 +1,16 @@
-#include <bits/stdc++.h>
-using namespace std;
-#define forn(i, n) for (int i = 0; i < int(n); i++)
 
+#include <iostream>
+#include <algorithm>
+using namespace std;
 int main()
 {
-  vector<int> v;
-  forn(i, 3)
+  int a[5];
+  for (int i = 0; i < 3; i++)
   {
-    int num;
-    cin >> num;
-    v.push_back(num);
+    cin >> a[i];
   }
-  sort(v.begin(), v.end());
-  int dist = (((v[2] - v[1]) + (v[1] - v[0])));
-  cout << dist << endl;
+  sort(a, a + 3);
+
+  cout << ((a[1] - a[0]) + (a[2] - a[1])) << endl;
+  return 0;
 }
