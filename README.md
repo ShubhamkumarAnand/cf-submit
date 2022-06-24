@@ -1,6 +1,6 @@
 # Submissions
 
-> _Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)_
+> My Codeforces Submissions for the Questionnaire
 
 ## Introduction
 
