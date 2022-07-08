@@ -369,6 +369,22 @@
     ],
     "timestamp": "Jun/28/2022 21:04"
   },
+  "CF163298326": {
+    "contest_id": 1701,
+    "language": "GNU C++17",
+    "path": "codeforces/1701/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Schedule Management",
+    "problem_url": "https://codeforces.com/contest/1701/problem/C",
+    "submission_id": "CF163298326",
+    "submission_url": "https://codeforces.com/contest/1701/submission/163298326",
+    "tags": [
+      "binary search",
+      "greedy"
+    ],
+    "timestamp": "Jul/08/2022 22:01"
+  },
   "CF84606108": {
     "contest_id": 1367,
     "language": "GNU C++17",
